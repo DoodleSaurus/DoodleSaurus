@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Rendezvous – a platform where users can create, discover, and join local events and hangouts to foster real-world connections.<br>👯 I’m looking to collaborate on web development projects, especially those that combine front-end design and backend logic.<br>🤝 I’m looking for help with improving user experience, optimizing performance, and implementing best practices in full-stack development.<br>🌱 I’m currently learning how to build scalable web apps and integrate modern web technologies.<br>⚡ Fun fact: I love cooking homemade food when I’m not coding!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imcarl_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carl-harvey-miguel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carlharvey.miguel@gmail.com) 
 
