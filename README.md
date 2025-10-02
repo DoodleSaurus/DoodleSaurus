@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Rendezvous – a platform where users can create, discover, and join local events and hangouts to foster real-world connections.<br>👯 I’m looking to collaborate on web development projects, especially those that combine front-end design and backend logic.<br>🤝 I’m looking for help with improving user experience, optimizing performance, and implementing best practices in full-stack development.<br>🌱 I’m currently learning how to build scalable web apps and integrate modern web technologies.<br>💬 Ask me about building websites with HTML, CSS, JavaScript, PHP, MySQL, and Bootstrap.<br>⚡ Fun fact: I love cooking homemade food when I’m not coding!
+🔭 I’m currently working on Rendezvous – a platform where users can create, discover, and join local events and hangouts to foster real-world connections.<br>👯 I’m looking to collaborate on web development projects, especially those that combine front-end design and backend logic.<br>🤝 I’m looking for help with improving user experience, optimizing performance, and implementing best practices in full-stack development.<br>🌱 I’m currently learning how to build scalable web apps and integrate modern web technologies.<br>⚡ Fun fact: I love cooking homemade food when I’m not coding!
 
 
 ## 🌐 Socials:
