@@ -35,6 +35,8 @@
   <a href="https://www.instagram.com/imcarl_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+
+  [![Image of https://github.com/DoodleSaurus/my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/DoodleSaurus/my-views-counter)
 </div>
 
 ###
